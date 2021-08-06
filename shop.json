@@ -1,0 +1,8 @@
+{
+    "banana": {
+        "name": "banana",
+        "price": 5,
+        "description": "cheap",
+        "type": "item"
+    }
+}
